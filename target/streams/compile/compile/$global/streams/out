@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\DIOP028957\IdeaProjects\Minirun\src\main\scala\Minirun.scala:21:38: too many arguments for method pretupsC2s: (pretups: String, date: String)org.apache.spark.sql.DataFrame[0m
+[0m[[0m[31merror[0m] [0m[0m      val df_pretups_c2s = pretupsC2s(base_pretups_c2s, debut, fin)[0m
+[0m[[0m[31merror[0m] [0m[0m                                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
